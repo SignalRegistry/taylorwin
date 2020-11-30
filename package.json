@@ -1,0 +1,14 @@
+{
+  "name": "taylorwin.array.signalregistry.org",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "taylorwin": "^1.0.1"
+  }
+}
